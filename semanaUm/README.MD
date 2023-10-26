@@ -171,12 +171,12 @@ Geralmente é usado tipo de dieta oral , enteral e parenteral.
 ## Desenvolvedores
 
 
-Eduardo Veras (https://github.com/CesarVeras)
+- Eduardo Veras (https://github.com/CesarVeras)
 
-Fernanda Linhares (https://github.com/FernandaBarrosLinhares)
+- Fernanda Linhares (https://github.com/FernandaBarrosLinhares)
 
-Geonani Andrade de Oliveira (https://github.com/G3ovani-Andrade)
+- Geonani Andrade de Oliveira (https://github.com/G3ovani-Andrade)
 
-Isaque Scheidt (https://github.com/isaque-sch)
+- Isaque Scheidt (https://github.com/isaque-sch)
 
-Jose Francisco Dupuy Patella(https://github.com/josepatella)
+- Jose Francisco Dupuy Patella(https://github.com/josepatella)
