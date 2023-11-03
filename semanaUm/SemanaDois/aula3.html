@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=o, initial-scale=1.0">
+    <title>FMT-Semana 2 -Aula 3</title>
+</head>
+<body>
+    
+<h2>Lista ordenada</h2>
+    <ol>
+        <li>Chá</li>
+        <li>Café</li>
+        <li>Leite</li>
+    </ol>
+
+    <ul>
+        <li>Chá</li>
+        <li>Café</li>
+        <li>Leite </li>
+    </ul>
+
+    <div>
+        <h2>Aluno: Fernanda Linhares</h2>
+        <p>Curso : FMT - Trilha Dev</p>
+        <p><span></span>fernanda@email.com</p>
+    </div>
+    <div>
+        Site criado 03/11/2023
+    </div>
+
+    <form>
+        <label for="nome">Nome:</label>
+        <input
+            id="nome"
+            value="Fernanda"
+            name="nome"
+            placeholder="Digite seu nome"
+            type="text"
+        />
+        <label for ="idade">Idade</label>
+        <input
+            id="idade"
+            placeholder="Digite sua idade"
+            type="number"
+            min="1"
+            max="90"
+        />
+        <label for = "Passwords">Senha</label>
+        <input 
+            id="senha"
+            placeholder="Digite sua senha"
+            value="fer123"
+            type="password"
+        />
+        <label for ="data">Data</label>
+        <input 
+            id="data" 
+            placeholder="Escolha uma Data"
+            value="fer123"
+            type="datetime-local" 
+            />
+            <br>
+         <label for="cor">Cor</label>
+         <input
+            id="cor"
+            placeholder="Escolha uma cor"
+            type="color"
+            />
+
+         <label for="sobrenome">Sobrenome</label>
+         <input
+            type="text"
+            id="sobrenome"
+            placeholder="Digite seu sobrenome"
+            required
+            minlength="4"
+            maxlength="20"
+        />
+        <button type="submit">Finalizar cadastro</button>
+    </form>
+</body>
+</html>
